@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "tomato11.sln"
+    "dotnet.defaultSolution": "tomatoworld.sln"
 }
